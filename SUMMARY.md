@@ -6,3 +6,7 @@
     * [🐣 리액트](week1/React.md)
     * [🐣 테스팅 라이브러리](week1/TestingLibrary.md)
 
+* [🐣 week2](week1/Intro.md)
+
+* [🐣 week3](week1/Intro.md)
+
