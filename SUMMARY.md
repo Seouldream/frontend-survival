@@ -8,3 +8,5 @@
   * [🐥 React](week1/React.md)
   * [🐥 Testing Library](week1/TestingLibrary.md)
   * [🐤 Parcel & ESLint](week1/parcel-and-eslint.md)
+* 🐤 테스트 파일
+    * [🐣 TypeScript](week1/typescript.md)
