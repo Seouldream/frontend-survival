@@ -17,4 +17,6 @@
   * [🐔 Syntactic sugar](week2/syntacticSugar.md)
   * [🐔 React.createElement](week2/reactCreateElement.md)
   * [🐔 React Element](week2/reactElement.md)
-
+  * [🐔 React StrictMode](week2/reactStrictMode.md)
+  * [🐔 React virtualDom](week2/virtualDom.md)
+  * [🐔 React reconciliation](week2/reconciliation.md)
