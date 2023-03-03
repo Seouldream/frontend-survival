@@ -1,4 +1,4 @@
-# React에서는 왜 JSX를 사용하는가?
+# 🐔 React에서 JSX를 사용하는 목적
 
 ## JSX란?
 
@@ -11,10 +11,10 @@ JSX는 React 컴포넌트를 생성하는 좋은 방법이다. JSX의 장점을 
 • 개발자 경험(developer experience, DX) 개선: 표현력이 뛰어나 코드를 읽기 쉽다. XML과 문법이 유사하여 중첩된 선언형 구조를 더 잘 나타낸다.
 
 ### XML이란?
+
 XML(eXtensible Markup Language)은 W3C에서 개발된, 다른 특수한 목적을 갖는 마크업 언어를 만드는데 사용하도록 권장하는 다목적 마크업 언어이다.
 
-- 예제
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RecipeBook_XML_Example.svg/1920px-RecipeBook_XML_Example.svg.png" />
+* 예제 ![](https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/RecipeBook\_XML\_Example.svg/1920px-RecipeBook\_XML\_Example.svg.png)
 
 • 팀의 생산성 향상: 전문 개발자 외에도 개발 지식이 있는 팀원이 있다면 직접 코드를 수정할 수도 있다. JSX는 HTML과 비슷하여 이들에게도 친숙하기 때문이다.
 
