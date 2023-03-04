@@ -1,8 +1,4 @@
-# 🥯 React Component
-
-## REST API 와 GraphQL
-
-
+# 🥯 REST API 와 GraphQL
 
 ### REST API 란?
 
